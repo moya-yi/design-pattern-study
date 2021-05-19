@@ -1,4 +1,4 @@
-package com.example.designpatternstudy;
+package com.study.designpattern;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
